@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maynor996.github.io/gpt-6.1-sol-api/sitemap.xml
